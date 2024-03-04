@@ -1,7 +1,7 @@
 
 ## SecMI on Latent Diffusion Models
 
-This codebase implements [SecMI](https://arxiv.org/pdf/2302.01316.pdf) on conditioned generation, including fine-tuned Stable Diffusion (SD) and vanilla SD.
+This codebase implements [SecMI](https://arxiv.org/pdf/2302.01316.pdf) ([repo](https://github.com/jinhaoduan/SecMI)) on conditioned generation, including fine-tuned Stable Diffusion (SD) and vanilla SD.
 This is built on diffuser-0.11.1. Please refer to [here](https://github.com/huggingface/diffusers/tree/v0.11.1) for environment configuration.
 
 We have modified the following files in order to perform SecMI:
