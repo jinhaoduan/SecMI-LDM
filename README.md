@@ -13,14 +13,14 @@ We have modified the following files in order to perform SecMI:
 ```
 
 ### Dataset
-Please download datasets from [here]() and `unzip`.
+Please download datasets from [here](https://drexel0-my.sharepoint.com/:u:/g/personal/jd3734_drexel_edu/EeEwxOQ-5cZEnf534S6WRkQBOcvbAtfmuV-h5UjyIF8YxQ?e=JYAHfo) and `unzip` it.
 
 There are three datasets included: [Pokemon](https://huggingface.co/datasets/lambdalabs/pokemon-blip-captions), [Laion](https://laion.ai/blog/laion-5b/) (2.5k), and [coco2017val](https://cocodataset.org/#home) (2.5k).
 
 ### SecMI w/ Stable Diffusion fine-tuned over the Pokemon dataset
 
 #### Checkpoint
-Please download the Pokemon-fine-tuned SD from [here]() and `unzip`.
+Please download the Pokemon-fine-tuned SD from [here](https://drexel0-my.sharepoint.com/:u:/g/personal/jd3734_drexel_edu/EYX4y5AgG9ZMjbSUvd0Oc3MBRaSBmZTqZjAVkOoG6kjIEw?e=M66BHj) and `unzip` it.
 
 #### Script
 Please refer to the following script or run `sh scripts/secmi_ldm_pokemon.sh`
